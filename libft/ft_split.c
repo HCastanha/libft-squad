@@ -6,7 +6,7 @@
 /*   By: hcastanh <hcastanh@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/05/14 18:48:28 by pde-carv          #+#    #+#             */
-/*   Updated: 2020/05/15 14:43:50 by hcastanh         ###   ########.fr       */
+/*   Updated: 2020/05/15 14:53:33 by hcastanh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -71,6 +71,7 @@ char	*ft_getfields(int *a, const char *s, char c)
 	field[i - j] = '\0';
 	while (s[i] && s[i] == c)
 		i++;
+	*a = i;
 	return (field);
 }
 
