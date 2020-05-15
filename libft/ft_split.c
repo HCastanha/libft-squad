@@ -6,7 +6,7 @@
 /*   By: hcastanh <hcastanh@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/05/14 18:48:28 by pde-carv          #+#    #+#             */
-/*   Updated: 2020/05/15 14:36:35 by hcastanh         ###   ########.fr       */
+/*   Updated: 2020/05/15 14:43:50 by hcastanh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,7 @@ int		count_words(const char *s, char c)
 	{
 		if (s[i] != c && i == 0)
 			words++;
-		if (s[i] == c && s[i + 1] != c && s[i + 1] != '\0')
+		else if (s[i] && s[i] == c && s[i + 1] != c && s[i + 1] != '\0')
 			words++;
 		i++;
 	}
