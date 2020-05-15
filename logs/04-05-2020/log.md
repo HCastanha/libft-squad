@@ -1,0 +1,1 @@
+@hcastanh mentoring with @iwillens, squad helper, about an ft_itoa function. 

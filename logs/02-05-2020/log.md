@@ -1,4 +1,4 @@
-first call via zoom with all the squad members to setup expectations and to get acquaintance with trello kanban approach by hands-on
+First call via zoom with all the squad members to setup expectations and to get acquaintance with trello kanban approach by hands-on
 knowledge transfer from @pde-carv about the following useful links:
 - [42 São Paulo At Home](https://www.notion.so/42-S-o-Paulo-At-Home-aacccd77588a43c4bea05342b0d6be46)
 - [42 Squads](https://www.notion.so/42-Squads-a9af9346a4cd4bd48b5e33cf76a0eec5)

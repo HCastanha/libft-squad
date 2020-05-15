@@ -22,3 +22,7 @@ Function  |Error|
 | ft_lstlast     |War Machine |
 | ft_lstadd_front|	not compiling  	|
 | ft_lstadd_back |	not compiling	| 
+
+@hcastanh had help from a special participant
+
+![Image](https://i.ibb.co/HXpDGGW/Whats-App-Image-2020-05-13-at-09-39-07.jpg)
